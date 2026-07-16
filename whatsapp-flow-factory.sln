@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whatsapp-flow-factory", "whatsapp-flow-factory.csproj", "{9692EEB8-25F2-4D55-85DD-3592879F0D79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9692EEB8-25F2-4D55-85DD-3592879F0D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9692EEB8-25F2-4D55-85DD-3592879F0D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9692EEB8-25F2-4D55-85DD-3592879F0D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9692EEB8-25F2-4D55-85DD-3592879F0D79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75D37518-ABE2-4156-A687-3F1F8C60D0F5}
+	EndGlobalSection
+EndGlobal
