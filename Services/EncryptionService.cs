@@ -7,7 +7,7 @@ using Org.BouncyCastle.Crypto.Modes;
 using Org.BouncyCastle.Crypto.Parameters;
 using Org.BouncyCastle.Crypto;
 using Org.BouncyCastle.Security;
-using whatsapp_flow_factory.Models;
+using whatsapp_flow_factory.Models.Extensions;
 
 namespace whatsapp_flow_factory.Services
 {

@@ -1,4 +1,4 @@
-﻿namespace whatsapp_flow_factory.Models.Request
+﻿namespace whatsapp_flow_factory.Models.Requests
 {
     public record EncryptedRequest
     (
